@@ -5,5 +5,4 @@ def square_array(array)
 end
 
   arr = [1, 2]
-  square_array(Array.new(len,val)
-  )
+  square_array(arr)
